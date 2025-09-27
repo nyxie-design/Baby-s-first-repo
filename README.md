@@ -1,4 +1,8 @@
-# Babys-first-repo
-- idk what im doing
+# [Design Scope]
 
-On my mechanical engineering grindset because school isnt teaching me anything
+**Goal:** aim or desired result
+
+**Results**
+- numbers and things
+
+## Just write a mini report here tbh
